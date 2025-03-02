@@ -1,5 +1,9 @@
 # GNN Atlas 🌐🧠
 
+<center>
+    <img src="./image.webp" alt="Graph Neural Network" width="400">
+</center>
+
 _A curated collection of resources, libraries, papers, and learning materials on Graph Neural Networks (GNNs)._
 
 Graph Neural Networks (GNNs) are transforming AI by enabling deep learning on graph-structured data. This repository is a **comprehensive hub** for researchers, engineers, and enthusiasts who want to explore and advance in this field.
